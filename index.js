@@ -1,5 +1,5 @@
 function doSomething() {
-    console.log("Hello World bug fixed");
+    console.log("Hello World bug fixed demos");
 }
 function develop() {
     console.log("I'm developing a new project :)");
